@@ -39,8 +39,8 @@ export const ProjectCard = ({data}: ProjectCardProps) => {
                 <span className="text-black"> {links[0].text}</span>
             </a>
             <a href={links[1]?.url} className="flex items-center">
-                <Window className='iconns_contactme' />
-                <span className="text-black"> Source Code</span>
+                <Github className='icons_contactme' />
+                <span className="text-black"> Backend</span>
             </a>
         </div>
       </div>

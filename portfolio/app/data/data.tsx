@@ -40,11 +40,11 @@ export const projects = [
 		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
 		links: [
 			{
-				text: "Source Code Frontend",
+				text: "Frontend",
 				url: "https://github.com/LeeReyesCS/climate-hack-frontend",
 			},
 			{
-				text: "Source Code Backend",
+				text: "Backend",
 				url: "https://github.com/LeeReyesCS/climate-hack-backend",
 			},
 		],
@@ -57,11 +57,11 @@ export const projects = [
 		image: "charlesdeluvio-jtmwD4i4v1U-unsplash.png",
 		links: [
 			{
-				text: "Source Code Frontend",
-				url: "https://github.com/chemille/frontend-yoga-4-all",
+				text: "Frontend",
+				url: "https://github.com/chemille/frontend-yoga-4-all", 
 			},
 			{
-				text: "Source Code Backend",
+				text: "Backend",
 				url: "https://github.com/Farrah-Unger/Capstone-Yoga-4-All-Backend",
 			},
 		],
@@ -90,7 +90,7 @@ export const projects = [
 		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
 		links: [
 			{
-				text: "Source Code",
+				text: "Frontend",
 				url: "https://github.com/Farrah-Unger/weather-report",
 			},
 			// {
@@ -107,11 +107,11 @@ export const projects = [
 		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
 		links: [
 			{
-				text: "Source Code FrontEnd",
+				text: "Frontend",
 				url: "https://github.com/Farrah-Unger/front-end-inspiration-board",
 			},
 			{
-				text: "Source Code BackEnd",
+				text: "Backend",
 				url: "https://github.com/Farrah-Unger/back-end-inspiration-board",
 			},
 		],
