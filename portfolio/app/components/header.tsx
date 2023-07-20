@@ -27,8 +27,7 @@ export const Header = ({ name, pages }: HeaderProps) => {
               sm:bg-transparent
               bg-white'
             >
-              {" "}
-              {page.label}{" "}
+              {page.label}
             </Link>
             );
           })}

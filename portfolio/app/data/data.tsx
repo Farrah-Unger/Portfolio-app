@@ -7,7 +7,7 @@ export const pages = [
 	{
 		id: 2,
 		label: "My Projects",
-		link: "/my-projects",
+		link: "/myprojects",
 	},
 	{
 		id: 3,
