@@ -33,106 +33,106 @@ export const aboutMeData = {
 
 export const projects = [
 	{
-		title: "Personal Finance Tracker",
+		title: "RecycleIt",
 		body1:
-			"A web application that allows users to track their income and expenses, categorize transactions, and view reports and charts to gain insights into their spending habits.",
-		body2: "Technologies used: HTML, CSS, JavaScript, and Flask.",
+			"A web application connecting recyclers to address low recycling rates and improve accessibility.",
+		body2: "Technologies used: Python, Firebase, ReactJS, Flask and PostgreSQL.",
 		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
 		links: [
 			{
-				text: "Source Code",
-				url: "https://github.com/richardbrown/personal-finance-tracker",
+				text: "Source Code Frontend",
+				url: "https://github.com/LeeReyesCS/climate-hack-frontend",
 			},
 			{
-				text: "Live Site",
-				url: "https://personal-finance-tracker.richardbrown.net",
+				text: "Source Code Backend",
+				url: "https://github.com/LeeReyesCS/climate-hack-backend",
 			},
 		],
 	},
 	{
-		title: "Movie Recommendation System",
+		title: "Yoga-4-All",
 		body1:
-			"A machine learning model that recommends movies to users based on their viewing history and preferences.",
-		body2: "Technologies used: Python, Pandas, NumPy, and scikit-learn",
+			"A web app for Occuptaional Therapists to facilitate further education for children with primitive reflex retention",
+		body2: "Technologies used: Python, PostgresSQL, Flask, React, TypeScript, Heroku and Azure",
 		image: "charlesdeluvio-jtmwD4i4v1U-unsplash.png",
 		links: [
 			{
-				text: "Source Code",
-				url: "https://github.com/richardbrown/weather-app",
+				text: "Source Code Frontend",
+				url: "https://github.com/chemille/frontend-yoga-4-all",
 			},
 			{
-				text: "Live Site",
-				url: "https://weather-app.richardbrown.net",
+				text: "Source Code Backend",
+				url: "https://github.com/Farrah-Unger/Capstone-Yoga-4-All-Backend",
 			},
 		],
 	},
-	{
-		title: "Tic-Tac-Toe Game",
-		body1: "A simple game of Tic-Tac-Toe built with Python and Pygame. ",
-		body2: "Technologies used: Python and Pygame.",
-		image: "tic_tac_toe.png",
-		links: [
-			{
-				text: "Source Code",
-				url: "https://github.com/richardbrown/tic-tac-toe-app",
-			},
-			{
-				text: "Live Site",
-				url: "https://todo-list-app.richardbrown.net",
-			},
-		],
-	},
+	// {
+	// 	title: "Tic-Tac-Toe Game",
+	// 	body1: "A simple game of Tic-Tac-Toe built with Python and Pygame. ",
+	// 	body2: "Technologies used: Python and Pygame.",
+	// 	image: "tic_tac_toe.png",
+	// 	links: [
+	// 		{
+	// 			text: "Source Code",
+	// 			url: "https://github.com/richardbrown/tic-tac-toe-app",
+	// 		},
+	// 		{
+	// 			text: "Live Site",
+	// 			url: "https://todo-list-app.richardbrown.net",
+	// 		},
+	// 	],
+	// },
 	{
 		title: "Weather App",
 		body1:
-			"A web application that allows users to search for the current weather conditions in any city in the world.",
-		body2: "Technologies used: HTML, CSS, JavaScript, and OpenWeather API.",
+			"A web application that allows users to search for the current weather conditions and play with some aesthetics.",
+		body2: "Technologies used: HTML, CSS, JavaScript, and LocationIQ API.",
 		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
 		links: [
 			{
 				text: "Source Code",
-				url: "https://github.com/richardbrown/weather-app",
+				url: "https://github.com/Farrah-Unger/weather-report",
 			},
-			{
-				text: "Live Site",
-				url: "https://weather-app.richardbrown.net",
-			},
+			// {
+			// 	text: "Live Site",
+			// 	url: "https://weather-app.richardbrown.net",
+			// },
 		],
 	},
 	{
-		title: "Todo List App",
+		title: "Inspiration Board App",
 		body1:
-			"A simple todo list application that allows users to add, edit, and delete tasks, and mark them as complete.",
-		body2: "Technologies used: HTML, CSS, JavaScript, and local storage.",
+			"A web app to help those who need inspiration to make a board of their goals and dreams.",
+		body2: "Technologies used: Python, Flask, PostgreSQL, ReactJS, CSS.",
 		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
 		links: [
 			{
-				text: "Source Code",
-				url: "https://github.com/richardbrown/todo-list-app",
+				text: "Source Code FrontEnd",
+				url: "https://github.com/Farrah-Unger/front-end-inspiration-board",
 			},
 			{
-				text: "Live Site",
-				url: "https://todo-list-app.richardbrown.net",
+				text: "Source Code BackEnd",
+				url: "https://github.com/Farrah-Unger/back-end-inspiration-board",
 			},
 		],
 	},
-	{
-		title: "Recipe Book",
-		body1:
-			"A web application that allows users to search for and save their favorite recipes from around the world.",
-		body2: "Technologies used: HTML, CSS, JavaScript, and Edamam API.",
-		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
-		links: [
-			{
-				text: "Source Code",
-				url: "https://github.com/richardbrown/recipe-book",
-			},
-			{
-				text: "Live Site",
-				url: "https://recipe-book.richardbrown.net",
-			},
-		],
-	},
+	// {
+	// 	title: "Recipe Book",
+	// 	body1:
+	// 		"A web application that allows users to search for and save their favorite recipes from around the world.",
+	// 	body2: "Technologies used: HTML, CSS, JavaScript, and Edamam API.",
+	// 	image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+	// 	links: [
+	// 		{
+	// 			text: "Source Code",
+	// 			url: "https://github.com/richardbrown/recipe-book",
+	// 		},
+	// 		{
+	// 			text: "Live Site",
+	// 			url: "https://recipe-book.richardbrown.net",
+	// 		},
+	// 	],
+	// },
 ];
 
 export const contactMeLinks = [
