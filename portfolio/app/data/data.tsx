@@ -26,10 +26,10 @@ export const aboutMeData = {
 		"When I'm not coding, I enjoy cooking, testing recipes. praticing yoga as I believe the mind and body are always ready to learn new things. I believe if it doesn't challenge you or scare you, it doesn't change you. I'm a lifelong learner, and I'm always looking for courses to help me improve my skills and knowledge. If you're interested in learning more about my skills and experience, feel free to take a look at my CV. I'd love to hear from you and discuss potential opportunities to collaborate on projects or learn from each other.",
 };
 
-// export const contactMeText = {
-// 	title: "Hello there! ",
-// 	body: "I am a data scientist and machine learning engineer with a passion for solving complex problems with data.  I bring a unique blend of technical and interpersonal skills to the table. I'm always eager to take on new challenges and collaborate with like-minded individuals. If you'd like to get in touch, simply fill out the form below and I'll get back to you as soon as possible. Looking forward to hearing from you!",
-// };
+export const contactMeText = {
+	title: "Hello there! ",
+	body: "I am a former sous chef, yoga instructor turned software engineer!  I bring a unique blend of technical and interpersonal skills to the table. I'm always eager to take on new challenges and collaborate with like-minded individuals. If you'd like to get in touch, simply fill out the form below and I'll get back to you as soon as possible. Looking forward to hearing from you!",
+};
 
 export const projects = [
 	{
