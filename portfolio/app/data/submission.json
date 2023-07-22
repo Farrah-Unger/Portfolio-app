@@ -70,5 +70,11 @@
     "company": "",
     "email": "testingemail@aol.com",
     "message": "Just testing one more time before deployment\n"
+  },
+  {
+    "name": "Nikita",
+    "company": "",
+    "email": "testingemail@aol.com",
+    "message": "checking in to see if this works"
   }
 ]
