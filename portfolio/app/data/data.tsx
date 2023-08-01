@@ -137,7 +137,5 @@ export const projects = [
 
 export const contactMeLinks = [
 	"time2code@gmail",
-	"twitter",
-	"linkedin",
-	"medium",
+	"https://www.linkedin.com/in/farrah-unger-27377689/",
 ];

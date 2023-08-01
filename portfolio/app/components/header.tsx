@@ -32,7 +32,8 @@ export const Header = ({ name, pages }: HeaderProps) => {
             );
           })}
         </nav>
-        <h1 className='text-white uppercase pl-2 sm:pl-0'> {name} </h1>
+        <a href="./">
+        <h1 className='text-white uppercase pl-2 sm:pl-0'> {name} </h1></a>
       </div>
       <Image
         priority
