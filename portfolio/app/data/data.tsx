@@ -37,7 +37,7 @@ export const projects = [
 		body1:
 			"A web application connecting recyclers to address low recycling rates and improve accessibility.",
 		body2: "Technologies used: Python, Firebase, ReactJS, Flask and PostgreSQL.",
-		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+		image: "recycle.jpeg",
 		links: [
 			{
 				text: "Frontend",
@@ -54,7 +54,7 @@ export const projects = [
 		body1:
 			"A web app for Occuptaional Therapists to facilitate further education for children with primitive reflex retention",
 		body2: "Technologies used: Python, PostgresSQL, Flask, React, TypeScript, Heroku and Azure",
-		image: "charlesdeluvio-jtmwD4i4v1U-unsplash.png",
+		image: "yogasymbol.jpeg",
 		links: [
 			{
 				text: "Frontend",
@@ -87,7 +87,7 @@ export const projects = [
 		body1:
 			"A web application that allows users to search for the current weather conditions and play with some aesthetics.",
 		body2: "Technologies used: HTML, CSS, JavaScript, and LocationIQ API.",
-		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+		image: "partlysunny.png",
 		links: [
 			{
 				text: "Frontend",
@@ -104,7 +104,7 @@ export const projects = [
 		body1:
 			"A web app to help those who need inspiration to make a board of their goals and dreams.",
 		body2: "Technologies used: Python, Flask, PostgreSQL, ReactJS, CSS.",
-		image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+		image: "dreamboard.jpeg",
 		links: [
 			{
 				text: "Frontend",
